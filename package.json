@@ -4,7 +4,6 @@
   "description": "Elm & Tailwind Starter Kit",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "elm-live:start": "elm-live src/Main.elm --port=4321 --dir=./dist --start=dist/index.html -- --output=./dist/elm.js",
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
